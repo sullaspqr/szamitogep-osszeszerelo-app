@@ -1,5 +1,5 @@
 import './App.css'
-import { useState } from 'react';
+import { useState } from 'react'; 
 // CPU-k:
 const processors = [ 
   { name: "i7", price: 50000 },
