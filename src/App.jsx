@@ -1,13 +1,13 @@
 import './App.css'
 import { useState } from 'react';
-
+// CPU-k:
 const processors = [ 
   { name: "i7", price: 50000 },
   { name: "i9", price: 75000 },
   { name: "Ryzen 7", price: 60000 },
   { name: "Ryzen 9", price: 85000 }
 ];
-
+// memóriák:
 const memories = [
  { name: "16 Gb - DDR4" , price: 70000 },
  { name: "32 Gb - DDR4" , price: 135000 },
