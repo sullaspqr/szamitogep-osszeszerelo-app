@@ -13,8 +13,6 @@ const memories = [
  { name: "32 Gb - DDR4" , price: 135000 },
  { name: "64 Gb - DDR4" , price: 200000 }
 ];
-
-
 const ComponentSelector = ({ name, options, selectedOption, onSelect}) => {
   return (
     <div>
