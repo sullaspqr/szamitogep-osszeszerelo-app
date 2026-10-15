@@ -1,6 +1,6 @@
 import './App.css'
-import { useState } from 'react'; 
-// CPU-k:
+import { useState } from 'react';
+// CPU-k:  
 const processors = [ 
   { name: "i7", price: 50000 },
   { name: "i9", price: 75000 },
